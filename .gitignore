@@ -7,6 +7,7 @@
 
 .gradle/
 .idea/
+/src/main/resources/datas/
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
