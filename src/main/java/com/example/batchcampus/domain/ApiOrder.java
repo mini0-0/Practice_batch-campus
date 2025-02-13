@@ -1,4 +1,4 @@
-package com.example.batchcampus.batch.domain;
+package com.example.batchcampus.domain;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

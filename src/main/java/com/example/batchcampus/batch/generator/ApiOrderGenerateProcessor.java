@@ -1,10 +1,7 @@
 package com.example.batchcampus.batch.generator;
 
-import com.example.batchcampus.batch.domain.ApiOrder;
-import com.example.batchcampus.batch.domain.ServicePolicy;
-import org.springframework.batch.item.ItemProcessor;
-import org.springframework.stereotype.Component;
-
+import com.example.batchcampus.domain.ApiOrder;
+import com.example.batchcampus.domain.ServicePolicy;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.stereotype.Component;
 
