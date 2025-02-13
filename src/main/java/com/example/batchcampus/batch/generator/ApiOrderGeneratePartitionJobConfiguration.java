@@ -1,6 +1,6 @@
 package com.example.batchcampus.batch.generator;
 
-import com.example.batchcampus.batch.domain.ApiOrder;
+import com.example.batchcampus.domain.ApiOrder;
 import lombok.RequiredArgsConstructor;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
@@ -30,7 +30,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.IntStream;
 
-@Configuration
+//@Configuration
 @RequiredArgsConstructor
 public class ApiOrderGeneratePartitionJobConfiguration {
 
